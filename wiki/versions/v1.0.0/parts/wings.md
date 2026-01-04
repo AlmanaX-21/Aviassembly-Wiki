@@ -13,6 +13,7 @@ Wings have a `MaxSpeed` rating.
 *   **Failure**: At 100% of Max Speed, the wing will explode/detach.
 
 ## Properties
+
 | Property | Description |
 | :--- | :--- |
 | **Area** | Surface area (`x * y`), directly scaling lift. |
