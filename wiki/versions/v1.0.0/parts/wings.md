@@ -16,7 +16,11 @@ Wings have a `MaxSpeed` rating.
 
 | Property | Description |
 | :--- | :--- |
+| Property | Description |
+| :--- | :--- |
 | **Area** | Surface area (`x * y`), directly scaling lift. |
 | **Lift Force** | Coefficient of lift. |
 | **Drag Force** | Coefficient of drag. |
+| **AoA Offset** | Built-in angle of attack adjustment. |
+| **Fuel** | Fuel capacity stored within the wing. |
 | **Control Surface** | (If applicable) Range of motion for aileron/flap. |

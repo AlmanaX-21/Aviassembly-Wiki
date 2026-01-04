@@ -14,3 +14,7 @@ Thumbs.db
 
 # Unignore the README file
 !/README.md
+
+# Unignore Scanners
+!/Scanners/
+!/Scanners/**

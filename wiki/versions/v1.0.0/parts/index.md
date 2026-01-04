@@ -6,8 +6,9 @@ Parts are the building blocks of aircraft in Aviassembly. All parts inherit from
 *   **[Wings](./wings.md)** - Generate lift and drag.
 *   **[Engines](./engines.md)** - Generate thrust.
 *   **[Wheels](./wheels.md)** - Provide ground capability and suspension.
-*   **Structural** - Fuselages and connecting parts.
-*   **Utility** - Parachutes, Decouplers, etc.
+*   **[Structural](./structural.md)** - Fuselages and connecting parts.
+*   **[Utility](./utility.md)** - Parachutes, Decouplers, etc.
+*   **[Power](./power.md)** - Batteries, Solar Panels, etc.
 
 ## Common Properties
 Most parts share these attributes:

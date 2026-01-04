@@ -16,12 +16,15 @@ Wheels can fail (explode) under two conditions:
 
 ## Properties
 | Property | Description |
+| Property | Description |
 | :--- | :--- |
 | **Suspension Length** | Max travel distance of the suspension. |
 | **Strength** | Spring force multiplier. |
 | **Damping** | Shock absorber resistance. |
 | **Load Limit** | Max weight supported before failure. |
 | **Traction** | Grip multiplier for braking/acceleration. |
+| **Max Friction** | Maximum sideways friction before sliding. |
+| **Ray Up Offset** | Height adjustment for the suspension raycast. |
 
 ## Retractable Gear
 Some wheels (`RetractableLandingGear`) can be retracted to reduce drag during flight.
