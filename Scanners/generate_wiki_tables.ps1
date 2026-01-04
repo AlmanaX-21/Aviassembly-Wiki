@@ -128,6 +128,7 @@ foreach ($file in $jsonFiles) {
 function Print-Table($data, $headers) {
     if ($data.Count -eq 0) { return }
     
+    Write-Output ""
     $line1 = "| " + ($headers -join " | ") + " |"
     $line2 = "| " + (($headers | ForEach-Object { ":---" }) -join " | ") + " |"
     Write-Output $line1

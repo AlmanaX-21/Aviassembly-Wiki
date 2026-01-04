@@ -17,6 +17,7 @@ Explosive bolts or mechanical latches to separate stages or drop payloads.
 ## Rotator
 Motorized hinge for moving parts.
 ### Properties
+
 | Property | Description |
 | :--- | :--- |
 | **Speed** | Rotation speed. |
@@ -24,6 +25,7 @@ Motorized hinge for moving parts.
 | **Rotator Base** | The stationary part of the hinge. |
 
 ## Other Parts
+
 | Name | Price | Overrides |
 | :--- | :--- | :--- |
 | Air intake | 25 | BasicPart, BuildingPart |

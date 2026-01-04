@@ -30,6 +30,7 @@ Controlled via the "Throttle" axis. Supports an "Invert" option for push configu
 | **Electric Engine** | Whether this is an electric motor. |
 
 ## Part Stats
+
 | Name | Price | Thrust | Throttle | Fuel | AbThrust | Electric |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | BigElectricEngine | 1200 | 20 | 1.75 | 0.01 | 0 | true |

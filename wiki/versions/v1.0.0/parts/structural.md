@@ -6,6 +6,7 @@ Structural parts form the chassis and connections of the aircraft.
 Main body components that provide structure and cargo capacity.
 
 ### Properties
+
 | Property | Description |
 | :--- | :--- |
 | **Cargo Volume** | Internal capacity for carrying payloads. |
@@ -14,11 +15,13 @@ Main body components that provide structure and cargo capacity.
 Dedicated containers for liquid fuel.
 
 ### Properties
+
 | Property | Description |
 | :--- | :--- |
 | **Volume** | Amount of fuel the tank can hold. |
 
 ## Part Stats
+
 | Name | Price | Type |
 | :--- | :--- | :--- |
 | Cockpit | 750 | Cockpit |

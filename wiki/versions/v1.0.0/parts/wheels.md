@@ -30,6 +30,7 @@ Wheels can fail (explode) under two conditions:
 Some wheels (`RetractableLandingGear`) can be retracted to reduce drag during flight.
 
 ## Part Stats
+
 | Name | Price |
 | :--- | :--- |
 | Light wheel | 75 |

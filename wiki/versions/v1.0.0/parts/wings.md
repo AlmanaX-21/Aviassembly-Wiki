@@ -16,8 +16,7 @@ Wings have a `MaxSpeed` rating.
 
 | Property | Description |
 | :--- | :--- |
-| Property | Description |
-| :--- | :--- |
+
 | **Area** | Surface area (`x * y`), directly scaling lift. |
 | **Lift Force** | Coefficient of lift. |
 | **Drag Force** | Coefficient of drag. |
@@ -26,6 +25,7 @@ Wings have a `MaxSpeed` rating.
 | **Control Surface** | (If applicable) Range of motion for aileron/flap. |
 
 ## Part Stats
+
 | Name | Price | Lift | Drag | MaxSpeed | Fuel |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | BigWing | 2500 | 0.015 | 0.0001 | 1500 | 2 |

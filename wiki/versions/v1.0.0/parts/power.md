@@ -19,6 +19,7 @@ Generates limited electricity from airflow.
 Used to manage heat (mechanics TBD).
 
 ## Part Stats
+
 | Name | Price | Type | Value |
 | :--- | :--- | :--- | :--- |
 | AirTurbine | 100 | Turbine | 0.003 |
