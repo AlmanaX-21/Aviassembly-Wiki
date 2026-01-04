@@ -18,3 +18,7 @@ Thumbs.db
 # Unignore Scanners
 !/Scanners/
 !/Scanners/**
+
+# Unignore PartDumps
+# !/PartDumps/
+# !/PartDumps/**

@@ -28,3 +28,15 @@ Wheels can fail (explode) under two conditions:
 
 ## Retractable Gear
 Some wheels (`RetractableLandingGear`) can be retracted to reduce drag during flight.
+
+## Part Stats
+| Name | Price |
+| :--- | :--- |
+| Light wheel | 75 |
+| Light wheel | 75 |
+| Big Wheel | 75 |
+| Bike Wheel | 25 |
+| Steel wheels | 50 |
+| RearWheel | 100 |
+| Wheel | 100 |
+| Retractable wheel | 300 |

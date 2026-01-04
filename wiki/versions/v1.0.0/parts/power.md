@@ -17,3 +17,12 @@ Generates limited electricity from airflow.
 
 ## Cooling Fan
 Used to manage heat (mechanics TBD).
+
+## Part Stats
+| Name | Price | Type | Value |
+| :--- | :--- | :--- | :--- |
+| AirTurbine | 100 | Turbine | 0.003 |
+| BigBatteries | 500 | Battery | 1 |
+| SmallBatteries | 250 | Battery | 0.5 |
+| SolarPanel | 200 | Solar | 0.002 |
+| TempratureFan | 300 | Power | 0.002 |

@@ -22,3 +22,12 @@ Motorized hinge for moving parts.
 | **Speed** | Rotation speed. |
 | **Input Override** | Control binding for the rotator. |
 | **Rotator Base** | The stationary part of the hinge. |
+
+## Other Parts
+| Name | Price | Overrides |
+| :--- | :--- | :--- |
+| Air intake | 25 | BasicPart, BuildingPart |
+| Air intake | 40 | BasicPart, BuildingPart |
+| Air intake | 10 | BasicPart, BuildingPart |
+| RotationJoint | 50 | Rotator, BuildingPart |
+| WoodConnection | 5 | BasicPart, BuildingPart |
