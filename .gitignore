@@ -11,3 +11,6 @@
 # Ignore common system files just in case
 .DS_Store
 Thumbs.db
+
+# Unignore the README file
+!/README.md
