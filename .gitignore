@@ -1,0 +1,13 @@
+# Ignore all files by default
+/*
+
+# Unignore the gitignore file itself
+!/.gitignore
+
+# Unignore the wiki directory and its contents
+!/wiki/
+!/wiki/**
+
+# Ignore common system files just in case
+.DS_Store
+Thumbs.db
